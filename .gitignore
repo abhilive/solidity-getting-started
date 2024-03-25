@@ -1,5 +1,7 @@
 node_modules
 /client/node_modules
+/client/.next
+/client/utils
 .env
 
 # Hardhat files
